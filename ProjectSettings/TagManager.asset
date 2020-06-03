@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shield
+  - Elaser
+  - Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemey
+  - Player projectile
+  - Enemey projectile
+  - Shield
+  - BlueGun
+  - powerup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: projectiles
+    uniqueID: 3876294375
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
